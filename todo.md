@@ -43,20 +43,22 @@
 - [x] Create social media post templates
 - [x] Create 14-day posting calendar
 
-## Phase 7: Launch & Scale
-- [ ] Deploy website to free hosting (Netlify/Vercel)
-- [ ] Launch email capture form
+## Phase 7: Deploy Website & Integrate All Systems
+- [ ] User completes all account signups
+- [ ] Deploy website to Netlify/Vercel
+- [ ] Integrate Mailchimp email capture
+- [ ] Add affiliate links to website
+- [ ] Set up 7-email automation sequence
+- [ ] Test all links and forms
+- [ ] Website goes live
+
+## Phase 8: Launch & Scale
 - [ ] Post first social media content
 - [ ] Monitor conversions and optimize
 - [ ] Hit $1,400 goal in 2 weeks
+- [ ] Scale to $5,000+/month
 
-## Phase 8: Review & Optimization
-- [ ] Test all affiliate links
-- [ ] Verify email automation workflows
-- [ ] Check mobile responsiveness
-- [ ] Monitor first week results
-- [ ] Optimize top-performing content
-- [ ] Create daily optimization checklist
+
 
 ## Completed
 - [x] Niche selection (SaaS tools for entrepreneurs)
