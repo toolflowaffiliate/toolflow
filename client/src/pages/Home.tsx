@@ -44,7 +44,7 @@ export default function Home() {
               Tools
             </a>
             <Button asChild className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold">
-              <a href="#cta">Start Earning</a>
+              <a href="https://shopify.pxf.io/GKv329" target="_blank" rel="noopener noreferrer">Start Earning</a>
             </Button>
           </nav>
         </div>
@@ -71,12 +71,12 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
             <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground font-bold shadow-lg hover:shadow-xl transition-all h-14 text-base">
-              <a href="#cta">
-                Get Your First Commission <ArrowRight className="w-5 h-5 ml-2" />
+              <a href="https://shopify.pxf.io/GKv329" target="_blank" rel="noopener noreferrer">
+                Start Your Store Now <ArrowRight className="w-5 h-5 ml-2" />
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="border-primary/30 hover:bg-primary/5 h-14 text-base font-semibold">
-              <a href="#how-it-works">See How It Works</a>
+              <a href="#earnings">See Earnings Proof</a>
             </Button>
           </div>
 
@@ -146,48 +146,9 @@ export default function Home() {
               type: "Per signup",
               icon: "🛍️",
               color: "from-blue-500 to-blue-600",
-              details: "Recurring commission on subscriptions",
+              details: "Industry-leading e-commerce platform. Perfect for entrepreneurs starting their first store.",
             },
-            {
-              name: "GetResponse",
-              commission: "30%",
-              type: "Recurring",
-              icon: "📧",
-              color: "from-purple-500 to-purple-600",
-              details: "Monthly for as long as customer stays",
-            },
-            {
-              name: "ConvertKit",
-              commission: "$25/month",
-              type: "Recurring",
-              icon: "✍️",
-              color: "from-pink-500 to-pink-600",
-              details: "Per active subscriber (unlimited)",
-            },
-            {
-              name: "Zapier",
-              commission: "20%",
-              type: "Recurring",
-              icon: "⚡",
-              color: "from-orange-500 to-orange-600",
-              details: "Lifetime commission on referrals",
-            },
-            {
-              name: "Semrush",
-              commission: "40%",
-              type: "Recurring",
-              icon: "📊",
-              color: "from-green-500 to-green-600",
-              details: "For first 12 months of subscription",
-            },
-            {
-              name: "Kinsta",
-              commission: "30%",
-              type: "Recurring",
-              icon: "🌐",
-              color: "from-cyan-500 to-cyan-600",
-              details: "Lifetime commission on referrals",
-            },
+
           ].map((tool, idx) => (
             <div
               key={idx}
@@ -386,9 +347,9 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground font-bold shadow-lg hover:shadow-xl transition-all h-14 text-base">
-                <a href="https://mailchimp.com" target="_blank" rel="noopener noreferrer">
-                  Get Started Free <ArrowRight className="w-5 h-5 ml-2" />
-                </a>
+              <a href="https://shopify.pxf.io/GKv329" target="_blank" rel="noopener noreferrer">
+                Start Your Store <ArrowRight className="w-5 h-5 ml-2" />
+              </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="border-foreground/20 hover:bg-foreground/5 h-14 text-base font-semibold">
                 <a href="mailto:hello@toolflow.com">Contact Support</a>
