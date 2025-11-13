@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_APP_TITLE": "ToolFlow - Automate Your Success",
+    "VITE_APP_LOGO": "/logo.png"
+  }
+}
